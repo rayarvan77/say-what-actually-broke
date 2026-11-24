@@ -1,0 +1,9 @@
+# Kit, bundles, transcripts and local run outputs — never part of the entry.
+kit/
+kit.tar.gz
+*.tar.gz
+*.log
+out/
+out2/
+.DS_Store
+__pycache__/
